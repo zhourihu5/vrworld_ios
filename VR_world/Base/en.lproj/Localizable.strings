@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  VR_world
+
+  Created by davysen on 16/3/22.
+  Copyright © 2016年 davysen. All rights reserved.
+*/
+
+"video1" = "Movie";
+"video2" = "Video";
+"login" = "Login";
+"ForgotPassword" = "Forgot password?";
+"RegisterNow" = "Register now";
+"accountPl" = "TEL";
+"pwdPl" = "Please enter the password";
+"confirmPwdPl" = "Confirm password";
+"code" = "code";
+"register" = "register";
+"cancel" = "cancel";
+"confirm" = "confirm";

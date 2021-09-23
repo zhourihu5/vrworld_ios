@@ -1,0 +1,32 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "FB330F16E518F3284F0A03758D9AE8787CBA11E5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "5312217d-df3e-8442-9c2c-5c3eb16cbfcd++5107" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "5312217d-df3e-8442-9c2c-5c3eb16cbfcd++5107" : 0,
+    "FB330F16E518F3284F0A03758D9AE8787CBA11E5" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "66326AC9-8F23-470A-AB72-8D297C5519E9",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "5312217d-df3e-8442-9c2c-5c3eb16cbfcd++5107" : "vrworld_ios\/VR_world\/VR_world\/ThirdLib\/MBProgressHUD\/",
+    "FB330F16E518F3284F0A03758D9AE8787CBA11E5" : "vrworld_ios\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "VR_world",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "VR_world\/VR_world.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/ay1302201051122.corp.robusoft.com.cn\/svn\/carfi",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5312217d-df3e-8442-9c2c-5c3eb16cbfcd++5107"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "ssh:\/\/tony.xu@review.gevek-server.com:29418\/vrworld_ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FB330F16E518F3284F0A03758D9AE8787CBA11E5"
+    }
+  ]
+}
